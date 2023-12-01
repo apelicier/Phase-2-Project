@@ -4,6 +4,6 @@
 ## Business Understanding
 ## Data Understanding
 ## Data Preparation
-## Analysis and Results/Recommendations
+## Analysis and Recommendations
 ## Conlusion and Next Steps
 ## Repo Structure
