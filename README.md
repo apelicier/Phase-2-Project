@@ -3,7 +3,7 @@
 ## Overview
 ## Business Understanding
 ## Data Understanding
-## Data Preparation (Can be really short in README)
+## Data Preparation
 ## Analysis and Results/Recommendations
 ## Conlusion and Next Steps
 ## Repo Structure
