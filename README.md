@@ -94,6 +94,10 @@ GitHub Repository_pdf: [github (.pdf)](github.pdf)
 - Strategize talent acquisition and marketing efforts to align with these findings.
 
 
+
+
+
+
 ##### Contact
 [PELICIER Antonine]
 
