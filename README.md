@@ -61,11 +61,19 @@ The project includes several visualizations to support the findings:
 
 Bar Chart: [Top 10 Movie Genres by Average Worldwide Gross(.PNG)](WorlwideGrossG_V1.PNG).
 
+[Top 10 movies by average W G bar](https://github.com/apelicier/Phase-2-Project/blob/main/Images/WorlwideGrossG_V1.PNG)
+
 Scatter Plot: [Worldwide Gross vs. Average Rating(.PNG)](AverageRating_V2.PNG).
+
+[Average rating scatter](https://github.com/apelicier/Phase-2-Project/blob/main/Images/AverageRating_V2.PNG)
 
 Scatter Plot: [Worldwide Gross vs. Number of Votes(.PNG)](NumberOfVotes_V3.PNG).
 
+[Number of votes scatter](https://github.com/apelicier/Phase-2-Project/blob/main/Images/NumberOfVotes_V3.PNG)
+
 Heatmap: [Correlation between Average Rating, Number of Votes, and Total Gross(.PNG)](movie1.PNG).
+
+[Correlation heatmap](https://github.com/apelicier/Phase-2-Project/blob/main/Images/movie1.PNG)
 
 
 ## Deliverables
