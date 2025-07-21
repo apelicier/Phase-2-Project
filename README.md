@@ -59,19 +59,19 @@ Focus on producing movies with broad audience appeal and themes that can attract
 ### Visualizations
 The project includes several visualizations to support the findings:
 
-##### Bar Chart: [Top 10 Movie Genres by Average Worldwide Gross(.PNG)](WorlwideGrossG_V1.PNG).
+#### Bar Chart: [Top 10 Movie Genres by Average Worldwide Gross(.PNG)](WorlwideGrossG_V1.PNG).
 
 ![Top 10 movies by average W G bar](https://github.com/apelicier/Phase-2-Project/blob/main/Images/WorlwideGrossG_V1.PNG)
 
-##### Scatter Plot: [Worldwide Gross vs. Average Rating(.PNG)](AverageRating_V2.PNG).
+#### Scatter Plot: [Worldwide Gross vs. Average Rating(.PNG)](AverageRating_V2.PNG).
 
 ![Average rating scatter](https://github.com/apelicier/Phase-2-Project/blob/main/Images/AverageRating_V2.PNG)
 
-##### Scatter Plot: [Worldwide Gross vs. Number of Votes(.PNG)](NumberOfVotes_V3.PNG).
+#### Scatter Plot: [Worldwide Gross vs. Number of Votes(.PNG)](NumberOfVotes_V3.PNG).
 
 ![Number of votes scatter](https://github.com/apelicier/Phase-2-Project/blob/main/Images/NumberOfVotes_V3.PNG)
 
-##### Heatmap: [Correlation between Average Rating, Number of Votes, and Total Gross(.PNG)](movie1.PNG).
+#### Heatmap: [Correlation between Average Rating, Number of Votes, and Total Gross(.PNG)](movie1.PNG).
 
 ![Correlation heatmap](https://github.com/apelicier/Phase-2-Project/blob/main/Images/movie1.PNG)
 
@@ -86,6 +86,13 @@ Non-technical Presentation: [presentation (.pdf)](presentation.pdf) (in pdf form
 GitHub Repository: [This repository itself:](https://github.com/apelicier/Phase-2-Project)
 
 GitHub Repository_pdf: [github (.pdf)](github.pdf)
+
+## Next Steps for the Studio
+
+- Conduct deeper market research within identified top genres.
+- Develop concepts that prioritize broad audience appeal and potential for high engagement.
+- Strategize talent acquisition and marketing efforts to align with these findings.
+
 
 ##### Contact
 [PELICIER Antonine]
